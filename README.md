@@ -29,7 +29,7 @@ const kenta = {
 
 ### What I'm building
 
-🧭 **[Remote Compass](https://github.com/u-kenta8/remote-compass)** — A job board aggregator that ranks remote roles by working-hour overlap with your timezone. Built with Next.js 16 and a Go API. *(in progress)*
+🧭 **[Remote Compass](https://remote-compass-beta.vercel.app/)** — A job board aggregator that ranks remote roles by working-hour overlap with your timezone. Live: [remote-compass-beta.vercel.app](https://remote-compass-beta.vercel.app/) · Source: [github.com/u-kenta8/remote-compass](https://github.com/u-kenta8/remote-compass). Built with Next.js 16, server components, and a Go API service in progress.
 
 ### Working with me
 
