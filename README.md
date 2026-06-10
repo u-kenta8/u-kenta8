@@ -7,7 +7,7 @@ It will display on https://github.com/u-kenta8
 
 ### Hi, I'm Kenta 👋
 
-Fullstack engineer based in **Japan (UTC+9)** with **10+ years** of professional experience. I'm currently **open to fully remote roles globally** (excluding Japan).
+Fullstack engineer based in **Japan (UTC+9)** with **10+ years** of professional experience. I'm currently **open to fully remote roles globally**.
 
 ```ts
 const kenta = {
